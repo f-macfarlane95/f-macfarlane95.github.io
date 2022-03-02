@@ -27,8 +27,6 @@ In a new avenue of research, I leverage social media data to explore
 participation in extremist movements across multiple contexts, gaining insight
 into the early stages of radicalization.
 
-<nbsp>
-
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
