@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng in Electronic & ELectrical Engineering, University of Strathclyde, 2017
+* Ph.D in Electronic & Electrical Engineering, University of Strathclyde, 2022 (expected)
 
 Work experience
 ======
@@ -27,14 +26,27 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Technical Expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hyperspectral Imaging and Analysis
+  * Both lab and field based experience
+  * Bespoke algorithms for image processing
+* Machine Learning
+  * Classification
+  * Object Detection
+  * Instance Segmentation
+* Remote Sensing
+  * Georectification
+  * Vegetation Indices
+* Dimensionality Reduction and Compression
+  * Compressive Sensing
+
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
