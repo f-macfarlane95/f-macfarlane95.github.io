@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my CV [here](/files/cv.pdf).
+
 Education
 ======
 * BEng in Electronic & ELectrical Engineering, University of Strathclyde, 2017
