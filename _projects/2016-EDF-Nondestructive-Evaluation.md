@@ -1,6 +1,6 @@
 ---
-title: "Vertically Integrated Project - Drug Discovery"
-excerpt: "Hyperspectral Imaging of <i>Streptomyces</i> species to identify novel antibiotics<br/><img src='/images/500x300.png'>"
+title: "Nondestructive Evaluation of Nuclear Reactor Fuel Channels"
+excerpt: "Image stitching from routine outage inspections to identify defects<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
