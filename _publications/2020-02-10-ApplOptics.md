@@ -1,7 +1,7 @@
 ---
 title: "Low-cost Hyper-Spectral Imaging System using a Linear Variable Bandpass Filter for Agritech Applications"
 collection: publications
-permalink: /publication/2019-bayespostest
+permalink: 
 date: 2020-01-27
 venue: 'Applied Optics'
 paperurl: '/files/papers/2020_AO_HyperspectralCropCamera.pdf'
