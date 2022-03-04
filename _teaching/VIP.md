@@ -1,7 +1,7 @@
 ---
 title: "VIP Drug Discovery"
 collection: teaching
-type: "Undergraduate course"
+type: "Vertically Integrated Project"
 permalink: /teaching/VIP
 venue: "University of Strathclyde, Department of Electronic & Electrical Engineering"
 date: 2017-09-25
