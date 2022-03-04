@@ -23,12 +23,12 @@ Work experience
 * Summer 2016: Research Intern
   * University of Strathclyde
   * Non-Destructive Evaluation of Nuclear Reactor Fuel Channels
-  * Supervisor: Professor Graham West & Dr. Paul Murry
+  * Supervisor: Dr Graham West & Dr Paul Murry
 
 * Summer 2017: Research Assistant
   * University of Strathclyde
   * Development of a Hyperspectral Crop Camera
-  * Supervisors: Dr. Paul Murray & Professor Stephen Marshall
+  * Supervisors: Dr Paul Murray & Professor Stephen Marshall
    
 Technical Expertise
 ======
