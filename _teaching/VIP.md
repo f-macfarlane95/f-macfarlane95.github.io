@@ -1,10 +1,10 @@
 ---
-title: "EE270 - Digital Electronics"
+title: "VIP Drug Discovery"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/EE270
+permalink: /teaching/VIP
 venue: "University of Strathclyde, Department of Electronic & Electrical Engineering"
-date: "2018-2020"
+date: "2017-2021"
 location: "Glasgow, Scotland"
 ---
 
