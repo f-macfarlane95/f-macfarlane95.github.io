@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/VIP
 venue: "University of Strathclyde, Department of Electronic & Electrical Engineering"
-date: "2017-2021"
+date: 2021-09-25
 location: "Glasgow, Scotland"
 ---
 
