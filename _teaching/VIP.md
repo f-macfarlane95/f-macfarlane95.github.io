@@ -5,7 +5,7 @@ type: "Vertically Integrated Project"
 permalink: /teaching/VIP
 venue: "University of Strathclyde, Department of Electronic & Electrical Engineering"
 date: 2017-09-25
-end_date: 2021-09-25
+end_date: 2021
 location: "Glasgow, Scotland"
 ---
 
